@@ -1,0 +1,9 @@
+[package]
+name = "icicle"
+version = "0.1.0"
+authors = ["Bradlee Speice <bradlee.speice@gmail.com>"]
+
+[dependencies]
+router = "*"
+iron = "*"
+urlencoded = "*"
